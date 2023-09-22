@@ -37,8 +37,9 @@ This project allows you to track the prices of selected products on Snapdeal usi
 
 **Note**: Ensure that the required Python libraries (`openpyxl`, `requests`, `bs4`, `yagmail`) are installed in the environment where you plan to run the scripts.
 
-Make sure to provide your email credentials in the main.py file and also select the reciever mail (By Default, It is mine) 
-Generate App Passwords and they should be only used as email credentials for safety reasons, (Research more about app passwords)
+**Before running the file, Make sure to provide your email credentials in the main.py file and also select the reciever mail (By Default, It is mine)**
+
+**Generate App Passwords and they should be only used as email credentials for safety reasons, (Research more about app passwords)**
 
 Thank You For Using Our Scripts
 
